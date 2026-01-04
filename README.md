@@ -15,13 +15,8 @@ cd very-basic-ai-cli
 pip install -r requirements.text
 ```
 
-then you can launch using
+Then you can launch it using
 
 ```bash
 python main.py
-```
-```
-```
-```
-```
 ```
