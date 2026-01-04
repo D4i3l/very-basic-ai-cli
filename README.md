@@ -12,7 +12,7 @@ This is my first proper project, so don't expect much from that app...
 ```bash
 git clone https://github.com/D4i3l/very-basic-ai-cli.git
 cd very-basic-ai-cli
-pip install -r requirements.text
+pip install -r requirements.txt
 ```
 
 Then you can launch it using
