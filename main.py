@@ -21,7 +21,7 @@ class mainapp(App):
         userinput = event.value
         
         def aiAgent() -> str:
-            API_KEY = ""
+            API_KEY = "ADD YOUR API KEY HERE!!"
 
             client = genai.Client(vertexai = False, api_key=API_KEY)
 

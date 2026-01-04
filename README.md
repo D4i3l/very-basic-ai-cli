@@ -7,3 +7,21 @@ This is my first proper project, so don't expect much from that app...
 - [ ] Add chat history
 - [ ] Add api key input, so you don't have to insert it into the code
 - [ ] Add some colors and life to it
+
+# Installation
+```bash
+git clone https://github.com/D4i3l/very-basic-ai-cli.git
+cd very-basic-ai-cli
+pip install -r requirements.text
+```
+
+Then you can launch using
+
+```bash
+python main.py
+```
+```
+```
+```
+```
+```
